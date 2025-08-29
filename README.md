@@ -172,4 +172,4 @@ json
 
 
 ## Live Chatbot Link
-https://bot.dialogflow.com/de20c81a-768e-466f-a276-fc3a9be76147
+https://gemini.google.com/share/6f1405ad102b
